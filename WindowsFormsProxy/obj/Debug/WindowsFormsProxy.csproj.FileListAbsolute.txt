@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\bin\Debug\WindowsFormsProxy.exe.config
+c:\users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\bin\Debug\WindowsFormsProxy.exe
+c:\users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\bin\Debug\WindowsFormsProxy.pdb
+c:\users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\obj\Debug\WindowsFormsProxy.Form1.resources
+c:\users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\obj\Debug\WindowsFormsProxy.Properties.Resources.resources
+c:\users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\obj\Debug\WindowsFormsProxy.csproj.GenerateResource.cache
+c:\users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\obj\Debug\WindowsFormsProxy.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\obj\Debug\WindowsFormsProxy.exe
+c:\users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\obj\Debug\WindowsFormsProxy.pdb
+C:\Users\admin\source\repos\WindowsFormsProxy\WindowsFormsProxy\obj\Debug\WindowsFormsProxy.csprojAssemblyReference.cache
